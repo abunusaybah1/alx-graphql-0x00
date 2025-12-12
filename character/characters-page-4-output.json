@@ -1,0 +1,68 @@
+{
+	"data": {
+		"characters": {
+			"results": [
+				{
+					"id": "31",
+					"name": "Beth Sanchez",
+					"status": "Alive",
+					"image": "https://rickandmortyapi.com/api/character/avatar/31.jpeg"
+				},
+				{
+					"id": "32",
+					"name": "Beth Smith",
+					"status": "Alive",
+					"image": "https://rickandmortyapi.com/api/character/avatar/32.jpeg"
+				},
+				{
+					"id": "33",
+					"name": "Blim Blam",
+					"status": "Dead",
+					"image": "https://rickandmortyapi.com/api/character/avatar/33.jpeg"
+				},
+				{
+					"id": "34",
+					"name": "Blue Shirt Morty",
+					"status": "Alive",
+					"image": "https://rickandmortyapi.com/api/character/avatar/34.jpeg"
+				},
+				{
+					"id": "35",
+					"name": "Blue Shirt Summer",
+					"status": "Alive",
+					"image": "https://rickandmortyapi.com/api/character/avatar/35.jpeg"
+				},
+				{
+					"id": "36",
+					"name": "Bob",
+					"status": "Dead",
+					"image": "https://rickandmortyapi.com/api/character/avatar/36.jpeg"
+				},
+				{
+					"id": "37",
+					"name": "Bobby Moynihan",
+					"status": "Alive",
+					"image": "https://rickandmortyapi.com/api/character/avatar/37.jpeg"
+				},
+				{
+					"id": "38",
+					"name": "Brad",
+					"status": "Dead",
+					"image": "https://rickandmortyapi.com/api/character/avatar/38.jpeg"
+				},
+				{
+					"id": "39",
+					"name": "Brenda",
+					"status": "Alive",
+					"image": "https://rickandmortyapi.com/api/character/avatar/39.jpeg"
+				},
+				{
+					"id": "40",
+					"name": "Beth Clone",
+					"status": "Alive",
+					"image": "https://rickandmortyapi.com/api/character/avatar/40.jpeg"
+				}
+			]
+		}
+	}
+}

@@ -1,0 +1,68 @@
+{
+	"data": {
+		"characters": {
+			"results": [
+				{
+					"id": "21",
+					"name": "Armagheadon",
+					"status": "unknown",
+					"image": "https://rickandmortyapi.com/api/character/avatar/21.jpeg"
+				},
+				{
+					"id": "22",
+					"name": "Armothy",
+					"status": "unknown",
+					"image": "https://rickandmortyapi.com/api/character/avatar/22.jpeg"
+				},
+				{
+					"id": "23",
+					"name": "Arthricia",
+					"status": "Alive",
+					"image": "https://rickandmortyapi.com/api/character/avatar/23.jpeg"
+				},
+				{
+					"id": "24",
+					"name": "Artist Morty",
+					"status": "Alive",
+					"image": "https://rickandmortyapi.com/api/character/avatar/24.jpeg"
+				},
+				{
+					"id": "25",
+					"name": "Attila Starwar",
+					"status": "Dead",
+					"image": "https://rickandmortyapi.com/api/character/avatar/25.jpeg"
+				},
+				{
+					"id": "26",
+					"name": "Baby Legs",
+					"status": "Alive",
+					"image": "https://rickandmortyapi.com/api/character/avatar/26.jpeg"
+				},
+				{
+					"id": "27",
+					"name": "Baby Poopybutthole",
+					"status": "Alive",
+					"image": "https://rickandmortyapi.com/api/character/avatar/27.jpeg"
+				},
+				{
+					"id": "28",
+					"name": "Bearded Lady",
+					"status": "Alive",
+					"image": "https://rickandmortyapi.com/api/character/avatar/28.jpeg"
+				},
+				{
+					"id": "29",
+					"name": "Beebo",
+					"status": "Dead",
+					"image": "https://rickandmortyapi.com/api/character/avatar/29.jpeg"
+				},
+				{
+					"id": "30",
+					"name": "Benjamin",
+					"status": "Dead",
+					"image": "https://rickandmortyapi.com/api/character/avatar/30.jpeg"
+				}
+			]
+		}
+	}
+}

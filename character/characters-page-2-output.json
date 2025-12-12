@@ -1,0 +1,68 @@
+{
+	"data": {
+		"characters": {
+			"results": [
+				{
+					"id": "11",
+					"name": "Albert Einstein",
+					"status": "Dead",
+					"image": "https://rickandmortyapi.com/api/character/avatar/11.jpeg"
+				},
+				{
+					"id": "12",
+					"name": "Alexander",
+					"status": "Dead",
+					"image": "https://rickandmortyapi.com/api/character/avatar/12.jpeg"
+				},
+				{
+					"id": "13",
+					"name": "Alien Googah",
+					"status": "unknown",
+					"image": "https://rickandmortyapi.com/api/character/avatar/13.jpeg"
+				},
+				{
+					"id": "14",
+					"name": "Alien Morty",
+					"status": "unknown",
+					"image": "https://rickandmortyapi.com/api/character/avatar/14.jpeg"
+				},
+				{
+					"id": "15",
+					"name": "Alien Rick",
+					"status": "unknown",
+					"image": "https://rickandmortyapi.com/api/character/avatar/15.jpeg"
+				},
+				{
+					"id": "16",
+					"name": "Amish Cyborg",
+					"status": "Dead",
+					"image": "https://rickandmortyapi.com/api/character/avatar/16.jpeg"
+				},
+				{
+					"id": "17",
+					"name": "Annie",
+					"status": "Alive",
+					"image": "https://rickandmortyapi.com/api/character/avatar/17.jpeg"
+				},
+				{
+					"id": "18",
+					"name": "Antenna Morty",
+					"status": "Alive",
+					"image": "https://rickandmortyapi.com/api/character/avatar/18.jpeg"
+				},
+				{
+					"id": "19",
+					"name": "Antenna Rick",
+					"status": "unknown",
+					"image": "https://rickandmortyapi.com/api/character/avatar/19.jpeg"
+				},
+				{
+					"id": "20",
+					"name": "Ants in my Eyes Johnson",
+					"status": "unknown",
+					"image": "https://rickandmortyapi.com/api/character/avatar/20.jpeg"
+				}
+			]
+		}
+	}
+}
