@@ -1,0 +1,14 @@
+{
+	"data": {
+		"characters": {
+			"results": [
+				{
+					"id": "21",
+					"name": "Armagheadon",
+					"status": "unknown",
+					"image": "https://rickandmortyapi.com/api/character/avatar/21.jpeg"
+				}
+			]
+		}
+	}
+}

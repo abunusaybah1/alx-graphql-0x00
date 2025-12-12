@@ -1,0 +1,14 @@
+{
+	"data": {
+		"characters": {
+			"results": [
+				{
+					"id": "31",
+					"name": "Beth Sanchez",
+					"status": "Alive",
+					"image": "https://rickandmortyapi.com/api/character/avatar/31.jpeg"
+				}
+			]
+		}
+	}
+}
